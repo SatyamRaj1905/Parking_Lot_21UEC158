@@ -1,4 +1,7 @@
 package Java.ParkingLotfiles.vehicles;
 
-public class OtherVehicle {
+class OtherVehicle extends Vehicle {
+
+    public OtherVehicle(String licensePlate, int hoursStayed) {super(licensePlate, "Other");}
+
 }
