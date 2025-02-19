@@ -57,7 +57,7 @@ Directory structure:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/parking-lot-system.git
+git clone https://github.com/SatyamRaj1905/Parking_Lot_21UEC158.git
 cd parking-lot-system
 
 ```
